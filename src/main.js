@@ -335,7 +335,7 @@ manager.onLoad = function () {
     loadingScreenButton.style.background = "#ead7ef";
     loadingScreenButton.style.color = "#6e5e9c";
     loadingScreenButton.style.boxShadow = "none";
-    loadingScreenButton.textContent = "~ 안녕하세요 ~";
+    loadingScreenButton.textContent = "~ HELLO :3 ~";
     loadingScreen.style.background = "#ead7ef";
     isDisabled = true;
 
